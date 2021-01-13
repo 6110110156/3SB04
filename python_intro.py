@@ -6,4 +6,4 @@ def hi(name):
     else:
         print('Hi anonymous!')
 
-hi()
+hi("Ola")
