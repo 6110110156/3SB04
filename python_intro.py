@@ -1,2 +1,1 @@
-if 3 > 2:
-    print('It works!')
+print('Hello, Django girls!')
